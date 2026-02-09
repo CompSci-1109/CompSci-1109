@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CompSci-1109 , aka Chandana Poojary.
 - 👀 I’m interested in ...Cyber Security, especially Blue team activities. 
-- 🌱 I’m currently learning ...Cybersecurity fundamentals.I have a strong intention to move towards blue teaming. Also I know some Python. Currently learning some web dev fundamentals too. 
+- 🌱 I’m currently learning ...Cybersecurity fundamentals.I have a strong intention to move towards blue teaming. Also I know some Python.
 - 💞️ I’m looking to collaborate on ...Idk dude. Im too bad at team stuff but let's see
 - 📫 How to reach me ...you can reach me on Instagram at : https://www.instagram.com/hildegardisstable  ,  
 - 😄 Pronouns: ...She/Her 
